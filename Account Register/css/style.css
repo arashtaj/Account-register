@@ -1,0 +1,86 @@
+/* for persian site (Arash Tajdini) */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: sans-serif;
+    direction: rtl;
+}
+table,section{
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+}
+textarea{
+    width: 470px;
+    height: 132px;
+}
+#banner{
+    background: rgb(133,123,123);
+    color: rgb(255, 255, 255);
+    height: 50px;
+}
+#legend{
+    font-family: sans-serif;
+    font-size: 16px;
+    background: rgb(114, 114, 117)
+}
+#pass,#pass2,#uname,#phnumber,#email{
+    width: 650px;
+    height: 32px;
+    padding: 4px 8px;
+    font-family: sans-serif;
+    font-size: 16px;
+    writing-mode: horizontal-tb;
+    text-size-adjust: 100%;
+    border: 1px 1px solid;
+    border-radius: 10px;
+}
+#address{
+    font-family: sans-serif;
+    font-size: 16px;
+    writing-mode: horizontal-tb;
+    text-size-adjust: 100%;
+    border: 1px 1px solid;
+    border-radius: 10px;
+}
+.labels{
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 7px 8px 0px;
+}
+input{
+    height: 15px;
+    width: 20px;
+}
+.inputs{
+    height: 60px;
+}
+/* for persian site (Arash Tajdini) */
+#register{
+    text-align: center;
+    margin-top: 40px;
+    background: rgb(7, 172, 7);
+    color: rgb(255, 255, 255);
+    border-color: rgb(7, 172, 7);
+    line-height: 20px;
+    font-family: inherit;
+    border: 1px solid rgb(7, 172, 7);
+    height: 34px;
+    width: 136px;
+    margin-bottom: 20px;
+    padding: 6px 12px;
+    border: 1px 1px solid;
+    border-radius: 6px;
+}
+footer{
+    background: rgb(133,123,123);
+    color: rgb(255, 255, 255);
+    height: 30px;
+    text-align: center;
+    margin:10px 0px;
+    line-height: 20px;
+    vertical-align: baseline;
+}
+/* for persian site (Arash Tajdini) */
